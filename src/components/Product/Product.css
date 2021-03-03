@@ -1,0 +1,21 @@
+.Product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+
+}
+.product-name h3{
+    color: blue;
+
+}
+.btn-cart{
+    background-color: goldenrod;
+    width: 150px;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
